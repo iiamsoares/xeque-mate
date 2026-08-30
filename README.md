@@ -1,9 +1,5 @@
 # Xeque-Mate — Projeto de Perícia Criminal
 
-<p align="center">
-  <img src="assets/xeque-mate_xadrez.png" alt="Imagem do projeto Xeque-Mate" width="700">
-</p>
-
 Projeto acadêmico da **UNICEPLAC** voltado à aplicação prática dos conceitos e procedimentos de perícia computacional.
 
 ## Sobre o projeto
