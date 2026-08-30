@@ -62,6 +62,6 @@ Durante o desenvolvimento do projeto, a equipe deverá:
 | --- | --- |
 | Gestor do projeto | Jeferson Felipe |
 | Perito de aquisição e preservação | Pedro Henrique |
-| Perito de análise forense | A definir |
-| Analista de sistemas e ferramentas | A definir |
+| Perito de análise forense | João Victor |
+| Analista de sistemas e ferramentas | Geovany Vieira |
 | Analista de documentação e relatório | Arthur Lopes |
