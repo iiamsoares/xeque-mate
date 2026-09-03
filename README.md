@@ -46,7 +46,14 @@ Durante o desenvolvimento do projeto, a equipe deverá:
 
 ## Cronograma
 
-| Etapa | Atividade | Período |
+| Semana | Período | Etapa | Atividades principais | Produto/registro|
+| :---: | --- | :---: | --- |:---: |
+| 1ª semana | 19/08 a 25/08 | Compreensão do cenário investigativo; identificação dos dispositivos e possíveis fontes de evidências; definição dos objetivos da perícia; levantamento dos procedimentos necessários. |  Registro inicial do caso e identificação dos vestígios |
+
+
+## Cadeia de Custódia
+
+| Semana | Período | Etapa | 
 | :---: | --- | :---: |
 | 1 | Definição do caso e planejamento da investigação | Semana 1 |
 | 2 | Identificação das possíveis evidências digitais | Semana 1 |
