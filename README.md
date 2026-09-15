@@ -1,3 +1,11 @@
+<p align="center">
+  <img src=".assets/image.png" alt="Logo Xeque-Mate" width="145">
+</p>
+
+<h1 align="center">Xeque-Mate</h1>
+
+<p align="center">Projeto de Perícia Criminal</p>
+
 # Xeque-Mate — Projeto de Perícia Criminal
 
 Projeto acadêmico da **UNICEPLAC** voltado à aplicação prática dos conceitos e procedimentos de perícia computacional.
