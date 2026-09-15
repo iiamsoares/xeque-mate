@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".assets/image.png" alt="Logo Xeque-Mate" width="145">
+  <img src="assets/image.png" alt="Logo Xeque-Mate" width="145">
 </p>
 
 <h1 align="center">Xeque-Mate</h1>
@@ -25,12 +25,13 @@ A proposta busca proporcionar uma experiência próxima à atuação de uma equi
 
 ## Objetivos
 
-- Aplicar, de forma prática e organizada, os conhecimentos adquiridos durante a disciplina.
-- Compreender as etapas de uma investigação pericial computacional.
-- Utilizar ferramentas e técnicas forenses adequadas às evidências encontradas.
-- Preservar a integridade das evidências e manter sua cadeia de custódia.
-- Interpretar e correlacionar diferentes vestígios digitais.
-- Registrar com clareza os procedimentos, as ferramentas, os resultados e as conclusões da equipe.
+- Identificar os vestígios digitais relevantes presentes no cenário investigativo simulado, considerando suas características e sua possível relação com os fatos investigados;
+- Preservar os vestígios digitais identificados, adotando procedimentos que contribuam para a manutenção de sua integridade e autenticidade durante o processo investigativo;
+- Coletar e adquirir as evidências digitais pertinentes ao caso, observando os princípios, procedimentos e boas práticas aplicáveis à Perícia Computacional;
+- Examinar e analisar arquivos, dados, registros, metadados e demais artefatos digitais disponíveis, buscando identificar informações relevantes para o esclarecimento dos fatos;
+- Correlacionar os vestígios e as informações obtidas durante os exames, estabelecendo relações entre os diferentes eventos e contribuindo para a reconstrução dos acontecimentos;
+- Documentar os procedimentos realizados, as técnicas empregadas, os resultados obtidos e as limitações encontradas durante a investigação;
+- Elaborar um relatório técnico contendo a descrição dos procedimentos, os principais achados e as conclusões decorrentes da análise dos vestígios digitais;
 
 ## Justificativa
 
@@ -53,7 +54,14 @@ Durante o desenvolvimento do projeto, a equipe deverá:
 
 ## Cronograma
 
-| Etapa | Atividade | Período |
+| Semana | Período | Etapa | Atividades principais | Produto/registro|
+| :---: | --- | :---: | --- |:---: |
+| 1ª semana | 19/08 a 25/08 | Compreensão do cenário investigativo; identificação dos dispositivos e possíveis fontes de evidências; definição dos objetivos da perícia; levantamento dos procedimentos necessários. |  Registro inicial do caso e identificação dos vestígios |
+
+
+## Cadeia de Custódia
+
+| Semana | Período | Etapa | 
 | :---: | --- | :---: |
 | 1 | Definição do caso e planejamento da investigação | Semana 1 |
 | 2 | Identificação das possíveis evidências digitais | Semana 1 |
