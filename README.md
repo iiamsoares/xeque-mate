@@ -4,7 +4,7 @@
 
 <h1 align="center">Xeque-Mate</h1>
 
-<p align="center">Projeto de Perícia Criminal</p>
+<p align="center">Projeto de Perícia Criminal - Análise e Desenvolvimento de Sistemas (Uniceplac)</p>
 
 # Xeque-Mate — Projeto de Perícia Criminal
 

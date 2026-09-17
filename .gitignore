@@ -1,0 +1,5 @@
+# Imagens de maquinas virtuais ficam apenas no computador.
+*.ova
+
+# Ferramentas locais usadas na VM.
+/VM-Pericia/transferencia/mingw64/
